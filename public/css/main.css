@@ -1,0 +1,56 @@
+.mynav{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.mynav li{
+    display: block;
+}
+.mynav li a:hover{
+    background: #22bb5b;
+}
+.mynav li a{
+    background: #222222;
+    padding: 5px;
+    margin-bottom: 5px;
+    display: block;
+    color: #ffffff;
+}
+.thumbnail{
+    height: 180px;
+}
+.proimage{
+    display: block;
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+    background: #ddd;
+}
+.footnote{
+    background: rgb(236, 240, 241);
+    text-align: center;
+    padding: 10px 0;
+}
+.footnote h3{
+    font-size: 25px;
+    padding-top: 5px;
+    color: #666;
+}
+.footnote span{
+    color: #666;
+    text-decoration: underline;
+}
+.upnew{
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+.previmg{
+    width: 50%;
+    float: right;
+    overflow: hidden;
+}
+.previmg img{
+    width: 180px;
+    height: 100px;
+}
